@@ -48,7 +48,7 @@ The API provides the following endpoints for managing tutorials:
 ```Markdown
 
 | Method | URL | Description |
-
+| ---- |
 | GET | | /api/tutorials | | Description |
 | GET | | /api/tutorials/:id | | Get a tutorial by its ID |
 | POST | | /api/tutorials | | Create a new tutorial |
