@@ -1,6 +1,6 @@
 # Node.js, Express, and MySQL RESTful API Project
 
-This project demonstrates a robust RESTful API built with Node.js and the Express.js framework, designed to interact with a MySQL database. It provides essential CRUD (Create, Read, Update, Delete) operations.
+This project implements a REST API for managing tutorials using Express.js and MySQL database. The API allows users to create, retrieve, update, delete, and search for tutorials.
 
 ### Technologies Used
 
