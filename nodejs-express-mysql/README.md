@@ -117,6 +117,13 @@ DELETE http://localhost:3000/api/tutorials/1
 
 Remeber to replace http://localhost:3000 with the actual URL of your server if it's running on a different port
 
+### Learning & Challenges
+
+This project helped me solidify my understanding of "RESTful API design principles", "MySQL database integration with Node.js", "middleware in Express.js". I particularly focused on "designing an efficient database schema".
+
+### My Role
+
+Developed the complete backend API, including database schema design, endpoint implementation, and integration with MySQL.
 
  
 
